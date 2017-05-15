@@ -133,11 +133,11 @@ html body section.content {
   min-height: 100%;
   min-width: 100%;
   display: table;
-  background: #FFDEAD; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(left, #FFDEAD , #6495ED); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(right, #FFDEAD, #6495ED); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(right, #FFDEAD, #6495ED); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to right, #FFDEAD , #6495ED); /* Standard syntax */
+  background: #0070c9; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, #0070c9 , #f2f2f2); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #0070c9, #f2f2f2); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, #0070c9, #f2f2f2); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #0070c9 , #f2f2f2); /* Standard syntax */
   animation-name: tlo;
   animation-duration: 4s;
 }
